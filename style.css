@@ -1,0 +1,30 @@
+#contact iframe
+{
+    width: 100%;
+}
+img {
+    width: 100%;
+}
+p {
+    margin-left: 10px ;
+    margin-right: 10px;
+}
+img {
+    width: 900px;
+    height: 1000;
+}
+.filmHeader {
+    font-size: 20px;
+    margin-bottom: 35px;
+    padding: 5px;
+    border-radius: 30px;
+}
+.star span{
+    color: rgb(255, 208, 0)
+}
+i{
+    float: right;
+}
+img{
+    width: 250px;
+}
